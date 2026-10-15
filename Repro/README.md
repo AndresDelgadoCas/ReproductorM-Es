@@ -6,7 +6,7 @@ Needle es una aplicación web para escuchar y organizar canciones mediante una *
  
 - Agregar canciones al inicio, al final o en una posición elegida.
 - Eliminar canciones y vaciar la cola.
-- Avanzar y retroceder entre pistas; al finalizar una canción sale de la fila activa y queda registrada en el historial.
+- Avanzar y retroceder entre pistas; al finalizar una canción sale de la fila activa y queda registrada en el historial. 
 - Modo aleatorio sin repetir pistas hasta completar una ronda; en orden normal la fila vuelve a empezar al llegar al final.
 - Historial independiente de canciones escuchadas o saltadas, con opción de volverlas a agregar y reproducir.
 - Cada recarga empieza con las canciones demo originales; la búsqueda, la cola, el historial y la sesión de Spotify vuelven a iniciar.
