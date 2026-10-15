@@ -1,4 +1,4 @@
-# Needle — Reproductor de música
+ # Needle — Reproductor de música
 
 Needle es una aplicación web para escuchar y organizar canciones mediante una **lista doblemente enlazada implementada desde cero en TypeScript**. La interfaz representa la cola musical como nodos conectados y permite recorrerla hacia adelante y hacia atrás.
 
