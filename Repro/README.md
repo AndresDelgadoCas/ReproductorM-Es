@@ -3,7 +3,7 @@
 Needle es una aplicación web para escuchar y organizar canciones mediante una **lista doblemente enlazada implementada desde cero en TypeScript**. La interfaz representa la cola musical como nodos conectados y permite recorrerla hacia adelante y hacia atrás.
 
 ## Funcionalidades
-    
+     
 - Agregar canciones al inicio, al final o en una posición elegida.
 - Eliminar canciones y vaciar la cola.
 - Avanzar y retroceder entre pistas; al finalizar una canción sale de la fila activa y queda registrada en el historial. 
