@@ -23,7 +23,7 @@ Needle es una aplicación web para escuchar y organizar canciones mediante una *
 - **Autenticación Spotify:** Authorization Code con PKCE.
 - **Estructura principal:** lista doblemente enlazada genérica.
 
-## Estructura del proyecto
+## Estructura del proyecto 
 
 ```text
 client/
